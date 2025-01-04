@@ -1,0 +1,9 @@
+{
+    "attributes": ["Strength", "Dexterity", "Constitution", "Intelligence", "Wisdom", "Charisma"],
+    "skills": [
+      "Swordsmanship", "Archery", "Stealth", "Alchemy", "Persuasion", "Intimidation",
+      "Blacksmithing", "Herbalism", "Hunting", "Fishing", "Lockpicking", "Acrobatics",
+      "Magic", "Tracking", "Trading", "Cooking", "Crafting", "Animal Handling"
+    ]
+  }
+  
